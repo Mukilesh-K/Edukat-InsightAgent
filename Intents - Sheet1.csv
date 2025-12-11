@@ -1,0 +1,49 @@
+User Question,Intent
+"""Who are the in-charge staff members for the subject 'Maths'?""",Check Assigned Staff
+"""Show me the staff who are not handling classes on Friday.""",Check Assigned Staff
+"""List down all the staff who are handling the computer subject.""",Check Assigned Staff
+"""Which staff members are in charge of Grade 7 and also teach English?""",Check Assigned Staff
+"""Which staff is handling most subjects?""",Check Assigned Staff
+"""Show me any 5 staff who are active on Tuesday.""",Check Assigned Staff
+"""Who is assigned to teach subject GK?""",Check Assigned Staff
+"""Show me the in-charge staff for all active subjects.""",Check Assigned Staff
+"""Which staff is assigned to subject GK?""",Check Assigned Staff
+"""Which staff is handling the class 8 timetable?""",Check Assigned Staff
+"""List all my periods and the corresponding in-charge staff for today.""",Get Period Activity
+"""Show activities scheduled for period 1.""",Get Period Activity
+"""Who is in charge of period 2 on Monday?""",Get Period Activity
+"""Show activities for period 1.""",Get Period Activity
+"""List all active periods and breaks for today for class 7.""",Retrieve Period Details
+"""Show me the active periods for today.""",Retrieve Period Details
+"""What are the details for the period with ID 179?""",Retrieve Period Details
+"""Show the periods scheduled for tomorrow.""",Retrieve Period Details
+"""Provide details for the period starting at 09:30 AM.""",Retrieve Period Details
+"""Provide details for the period starting at 09:30 AM.""",Retrieve Period Details
+"""Show me all active periods today.""",Retrieve Period Details
+"""Which class is student 664f417cf34db8980f86f735 in?""",Get Class Information
+"""Give me the class details for student with ID 6655dd213d5fde1986da815a.""",Get Class Information
+"""Which class does student 6675ba404649c274cd1ddc91 belong to?""",Get Class Information
+"""Show details of student with ID 6655dd213d5fde1986da815a.""",Get Student Details
+"""Can I get the list of all subjects my child (student_id = '6655dd213d5fde1986da815a') is enrolled in?""",List Subjects For Student
+"""What subjects is my child enrolled in (student_id = '6655dd213d5fde1986da815a')?""",List Subjects For Student
+"""What subjects are taught in class 12?""",List Subjects For Class
+"""What subjects are assigned to grade 10?""",List Subjects For Class
+"""Display all subjects assigned to grade 10.""",List Subjects For Class
+"""List all subjects for class 12.""",List Subjects For Class
+"""Which students are enrolled in class 10?""",Retrieve Student Details
+"""Which students are currently active in class 7?""",Retrieve Student Details
+"""Which students are in class 10?""",Retrieve Student Details
+"""List all leave applications for my child (student_id = '6655dd213d5fde1986da815a') with their approval status.""",Get Leave Details
+"""What events are planned for Sports Day?""",Get Event Details
+"""List all holiday events.""",Get Event Details
+"""Tell me about the Annual Day event.""",Get Event Details
+"""Which events are scheduled for class 7?""",Get Event Details
+"""What is the schedule for Good Friday events?""",Get Event Details
+"""List all events attended by the student with ID '6655dd213d5fde1986da815a' and the corresponding event details.""",Get Event Details
+"""Show me the schedule of events for class 7 in June 2024.""",Get Event Details
+"""List all events happening on 2024-06-21.""",Get Event By Date
+"""What events are scheduled for June 21?""",Get Event By Date
+"""What events are happening today?""",Get Event By Date
+"""List all events happening on 2024-06-21.""",Get Event By Date
+"""What events are scheduled for June 21?""",Get Event By Date
+"""Give me the details of the event on June 21.""",Get Event By Date
