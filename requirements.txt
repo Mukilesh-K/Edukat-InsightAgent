@@ -1,0 +1,25 @@
+# shutil
+numpy
+sounddevice
+scipy
+librosa
+# openai
+python-dotenv
+# time
+faiss_cpu
+langchain_community
+langchain_core
+langchain_openai
+psycopg2-binary
+PyYAML
+sentence_transformers
+streamlit
+torch
+transformers
+fastapi
+fastapi-cli
+pydantic
+pydantic_core
+uvicorn
+langchain
+redis
